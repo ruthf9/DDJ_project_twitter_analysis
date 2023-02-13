@@ -1,4 +1,4 @@
-# 280 Zeichen Relevanz: Wie Twitter zur Plattform für Ideen wurde
+# 280 Zeichen Relevanz: Wie Twitter zur Plattform für Ideen - und Egos - wurde
 
 Twitter besteht aus seinen prominenten Nutzern. Ein Porträt der Plattform anhand vier Power-NutzerInnen aus Journalismus, Unterhaltung, Wissenschaft und Politik.
 
