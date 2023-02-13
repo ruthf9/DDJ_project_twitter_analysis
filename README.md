@@ -36,8 +36,7 @@ Eine deskriptive Analyse der Twitter-Aktivitäten.
 - Welche User erwähnt der Account besonders oft? 
   &rarr; Werden immer diesselben Personen erwähnt, oder viele verschiedene?
 
-[Link zum Code](https://xxx).
-
+[Link zum Notebook](https://https://github.com/ruthf9/DDJ_project_twitter_analysis/edit/main/Twitter_Archiv_Analyse.ipynb).
 
 - Wer folgt diesem Account - und wem folgt er?
   &rarr; Ausbaumöglicheit: Auswertung nach Geschlecht
