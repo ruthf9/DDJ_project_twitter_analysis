@@ -10,7 +10,7 @@ Twitter besteht aus seinen prominenten Nutzern. Ein Porträt der Plattform anhan
 - **Knackpunkt bestimmen:** Bekomme ich die Daten? Welche Darstellungen/Analysen sind ein Mehrwert 
 - **Briefing Person konsultieren** Mit Stephanie Lahrtz und Gioia da Silva überlegt, welche Personen interessant wären. Mit Joana Kelén überlegt, welche Insights interessieren könnten: Dinge wie Corona - wann am Tag jemand etwas macht. Häufige Themen. Wie die Geburt eines Kindes die Nutzung verändert.
 - **Daten beschaffen/reinigen/analysieren/visualisieren**
-- **Ergänzen durch klassische Recherche** Interviews mit allen Beteilogten
+- **Ergänzen durch klassische Recherche** Interviews mit allen Beteiligten
 - **Dokumentieren Code und statistische Annahmen**
 - **Link auf Publikation**
 - **Aufwandslogbuch**
@@ -36,12 +36,29 @@ Eine deskriptive Analyse der Twitter-Aktivitäten.
 - Welche User erwähnt der Account besonders oft? 
   &rarr; Werden immer diesselben Personen erwähnt, oder viele verschiedene?
 
-[Link zum Notebook](https://https://github.com/ruthf9/DDJ_project_twitter_analysis/edit/main/Twitter_Archiv_Analyse.ipynb).
+[Link zum Notebook](https://github.com/ruthf9/DDJ_project_twitter_analysis/blob/main/Twitter_Archiv_Analyse.ipynb).
 
 - Wer folgt diesem Account - und wem folgt er?
   &rarr; Ausbaumöglicheit: Auswertung nach Geschlecht
   
 [Link zum Code](https://xxx).
 
+## 3 Resultate
+
+
+## 4 Aufwands_Logbuch
+
+Recherche:
+- Daten akquirieren, Interviews führen: 0,5 Tage 
+- Schätzung weiterer Aufwand 1,5 Tage
+
+Coding:
+- Twitter-Archiv verstehen, Daten extrahieren: 0,5 Tage
+- Code schreiben für Analysen und Plots der Twitter-Daten 2 Tage
+- Twitter-API machen und einarbeiten: 1 Tag
+- Twitter-API-Analyse 0,5 Tage
+- Schätzung weiterer Aufwand: 0,5 Tage
+
+In Summe etwa 4,5 Tage bereits daran gearbeitet
 
 
