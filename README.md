@@ -32,14 +32,13 @@ Eine deskriptive Analyse der Twitter-Aktivitäten.
 - An welchen Wochentagen und zu welcher Uhrzeit sind die Accounts aktiv? Wie veränderte sich das über die Jahre durch Ereignisse wie: Pandemiebeginn, Geburt eines Kindes, andere, persönliche Ergeignisse?
 - Welche Wörter und Hashtags erwähnt der Account besonders oft? Was lässt sich über die Themen schliessen?
   Wie haben sich die Top-Wörter über die Jahre verändert?
-  &rarr; Ausbaumöglichkeit: Sentiment-Analyse
 - Welche User erwähnt der Account besonders oft? 
   &rarr; Werden immer diesselben Personen erwähnt, oder viele verschiedene?
 
 [Link zum Notebook](https://github.com/ruthf9/DDJ_project_twitter_analysis/blob/main/Twitter_Archiv_Analyse.ipynb).
 
 - Wer folgt diesem Account - und wem folgt er?
-  &rarr; Ausbaumöglicheit: Auswertung nach Geschlecht
+  &rarr; *Ausbaumöglicheit: Auswertung nach Geschlecht*
   
 [Link zum Code](https://xxx).
 
@@ -50,7 +49,7 @@ Eine deskriptive Analyse der Twitter-Aktivitäten.
 - Die anderen beiden Interviews, sowie Rückfragen nach der Analyse sind ausständig
 
 - Twitter-Archiv-Analyse: Guten Beispielcode gefunden, daran selbstständig weitergearbeitet, um die wichtigsten Daten zu sammeln über die Tweetaktivität
-- Erstes Gespräch mit Briefing-Person Joana Kelén, die für den Artikel die Visualisierungen machen wird: Herausgearbeitet, dass nicht alle Details bei allen Accounts spannend sind, sondern jeweils spannende Aspekte gezeigt werden sollen. Einige Hypothesen nach dem Erstkontakt: 
+- Erstes Gespräch mit Briefing-Person Joana Kelén, die für den Artikel die Visualisierungen machen wird: Herausgearbeitet, dass nicht alle Details bei allen Accounts spannend sind, sondern jeweils spannende Aspekte gezeigt werden sollen. Einige Hypothesen nach dem Gespräch: 
   -  Wie Patrizia Laeri strategisch Hashtags nutzt für Frauen-Anliegen.
   -  Wie der Komiker Karpi anders twittert, seit er Vater wurde - ob sich seine Sucht belegen lässt
   -  Welche Dynamik die Twitter-Aktivitäten von der Virologin Hodcroft während Corona hatten
@@ -64,24 +63,24 @@ Manches könnte man auch vergleichen, etwa: Wie viel twittern diese Leute? Wie v
 - zweites Gespräch mit Briefing-Person, um zu identifizieren, was noch wichtige Inputs wären. Resultat:
 
 
-Was noch fehlt:
+*Was noch fehlt:
 - letzte Analysen
 - zwei Interviews, Rückfragen bei den bereits Interviewten
 - Inputs geben für Illustrationen/Infografiken
-- Text fertig schreiben
+- Text fertig schreiben*
 
 ## 4 Aufwands Logbuch
 
 Recherche:
 - Daten akquirieren, Interviews führen: 0,5 Tage 
-- Schätzung weiterer Aufwand 1,5 Tage
+- *Schätzung weiterer Aufwand 1,5 Tage*
 
 Coding:
 - Twitter-Archiv verstehen, Daten extrahieren: 0,5 Tage
 - Code schreiben für Analysen und Plots der Twitter-Daten 2 Tage
 - Twitter-API machen und einarbeiten: 1 Tag
 - Twitter-API-Analyse 0,5 Tage
-- Schätzung weiterer Aufwand: 0,5 Tage
+- *Schätzung weiterer Aufwand: 0,5 Tage*
 
 In Summe etwa 4,5 Tage bereits daran gearbeitet
 
