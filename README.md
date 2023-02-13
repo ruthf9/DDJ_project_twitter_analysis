@@ -68,11 +68,12 @@ Manches könnte man auch vergleichen, etwa: Wie viel twittern diese Leute? Wie v
 
 
 
-*Was noch fehlt:
+*Was noch fehlt*:
 - letzte Analysen
 - zwei Interviews, Rückfragen bei den bereits Interviewten
 - Inputs geben für Illustrationen/Infografiken
-- Text fertig schreiben*
+- Text fertig schreiben
+
 
 ## 4 Aufwands Logbuch
 
