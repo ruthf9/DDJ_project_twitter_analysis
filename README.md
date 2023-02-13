@@ -43,10 +43,34 @@ Eine deskriptive Analyse der Twitter-Aktivitäten.
   
 [Link zum Code](https://xxx).
 
-## 3 Resultate
+
+## 3 Vorgehen bisher
+- Vier interessante Personen identifiziert, per Mail oder Telefon Kontakt aufgenommen, Projekt erklärt, Daten erhalten
+- Mit Patrizia Laeri bereits das Interview geführt. Mit Emma Hodcroft hat meine Kollegin S. Lahrtz bereits das Interview geführt
+- Die anderen beiden Interviews, sowie Rückfragen nach der Analyse sind ausständig
+
+- Twitter-Archiv-Analyse: Guten Beispielcode gefunden, daran selbstständig weitergearbeitet, um die wichtigsten Daten zu sammeln über die Tweetaktivität
+- Erstes Gespräch mit Briefing-Person Joana Kelén, die für den Artikel die Visualisierungen machen wird: Herausgearbeitet, dass nicht alle Details bei allen Accounts spannend sind, sondern jeweils spannende Aspekte gezeigt werden sollen. Einige Hypothesen nach dem Erstkontakt: 
+  -  Wie Patrizia Laeri strategisch Hashtags nutzt für Frauen-Anliegen.
+  -  Wie der Komiker Karpi anders twittert, seit er Vater wurde - ob sich seine Sucht belegen lässt
+  -  Welche Dynamik die Twitter-Aktivitäten von der Virologin Hodcroft während Corona hatten
+  -  Wie bei Silberschmidt die Karriere als Politiker die Themen verändert hat und der Account professioneller und erwachsener wurde
+Manches könnte man auch vergleichen, etwa: Wie viel twittern diese Leute? Wie viel twittern sie ausserhalb der Arbeitszeit? Verbreiten diese Accounts vor allem Eigenwerbung (taggen sich selbst) - oder verbreiten sie auch fremden Content?
+
+- Viele Varianten von Plots erstellt für einen besseren Eindruck zu diesen Themen
+- parallel: inhaltliche Auswertung von Tweets begonnen - Wörter, Hashtags und Mentions sammeln
+- Einarbeiten in Twitter-API, weil mich das generell interessiert, für später. Und für eine systematischere Darstellung von Followers/Following. Begonnen mit: Folgen sich diese 4 Personen gegenseitig? 
+
+- zweites Gespräch mit Briefing-Person, um zu identifizieren, was noch wichtige Inputs wären. Resultat:
 
 
-## 4 Aufwands_Logbuch
+Was noch fehlt:
+- letzte Analysen
+- zwei Interviews, Rückfragen bei den bereits Interviewten
+- Inputs geben für Illustrationen/Infografiken
+- Text fertig schreiben
+
+## 4 Aufwands Logbuch
 
 Recherche:
 - Daten akquirieren, Interviews führen: 0,5 Tage 
