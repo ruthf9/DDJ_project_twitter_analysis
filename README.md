@@ -40,7 +40,8 @@ Eine deskriptive Analyse der Twitter-Aktivitäten.
 - Wer folgt diesem Account - und wem folgt er?
   &rarr; *Ausbaumöglicheit: Auswertung nach Geschlecht*
   
-[Link zum Code](https://xxx).
+[Link zum Notebook](https://github.com/ruthf9/DDJ_project_twitter_analysis/blob/main/Twitter_API_for_Github.ipynb) - zum Ausführen ist ein Access Token notwendig
+
 
 
 ## 3 Vorgehen bisher
@@ -60,7 +61,11 @@ Manches könnte man auch vergleichen, etwa: Wie viel twittern diese Leute? Wie v
 - parallel: inhaltliche Auswertung von Tweets begonnen - Wörter, Hashtags und Mentions sammeln
 - Einarbeiten in Twitter-API, weil mich das generell interessiert, für später. Und für eine systematischere Darstellung von Followers/Following. Begonnen mit: Folgen sich diese 4 Personen gegenseitig? 
 
-- zweites Gespräch mit Briefing-Person, um zu identifizieren, was noch wichtige Inputs wären. Resultat:
+- zweites Gespräch mit Briefing-Person, was wäre noch interessant:
+  -  Bei den Top Hashtags und Mentions ist noch Recherche nötig, zum inhaltliche Dinge aufzeichen
+  -  Bei Silberschmidt zeitlich schauen, wann Wahlkampf
+  -  Zusammenhang Lockdown-Twitter
+
 
 
 *Was noch fehlt:
@@ -82,6 +87,7 @@ Coding:
 - Twitter-API-Analyse 0,5 Tage
 - *Schätzung weiterer Aufwand: 0,5 Tage*
 
-In Summe etwa 4,5 Tage bereits daran gearbeitet
+In Summe etwa 4,5 Tage bereits daran gearbeitet, datenjournalistisch fehlt wenig, weitere Recherche und Schreiben fehlen noch
+
 
 
