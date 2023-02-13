@@ -27,12 +27,22 @@ Eine weitere Datenquelle, nötig für Follwers/Following, ist die Twitter-API.
 
 Eine deskriptive Analyse der Twitter-Aktivitäten. 
 
+
 - Wie aktiv sind diese Power-Nutzer über die Jahre? Tweeten sie mehr selbst, oder retweeten sie? Wofür haben sie am meisten Likes und Retweets bekommen?
 - An welchen Wochentagen und zu welcher Uhrzeit sind die Accounts aktiv? Wie veränderte sich das über die Jahre durch Ereignisse wie: Pandemiebeginn, Geburt eines Kindes, andere, persönliche Ergeignisse?
 - Welche Wörter und Hashtags erwähnt der Account besonders oft? Was lässt sich über die Themen schliessen?
+  Wie haben sich die Top-Wörter über die Jahre verändert?
   &rarr; Ausbaumöglichkeit: Sentiment-Analyse
-- Welche User erwähnt der Account besonders oft? Werden immer diesselben Personen erwähnt, oder viele verschiedene?
+- Welche User erwähnt der Account besonders oft? 
+  &rarr; Werden immer diesselben Personen erwähnt, oder viele verschiedene?
+
+[Link zum Code](https://xxx).
+
+
 - Wer folgt diesem Account - und wem folgt er?
   &rarr; Ausbaumöglicheit: Auswertung nach Geschlecht
+  
+[Link zum Code](https://xxx).
+
 
 
